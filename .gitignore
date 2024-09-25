@@ -1,0 +1,5 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+/flowCharts
+/node_modules
+/packages/**/*/node_modules
